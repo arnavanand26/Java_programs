@@ -1,4 +1,4 @@
-class Usecase2PalindromeCheckerApp {
+class UC2HardcodedPalindrome {
 
     public static void main(String[] args) {
 
