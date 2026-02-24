@@ -1,9 +1,5 @@
 public class UseCase4PalindromeCheckerApp {
 
-    /**
-     * Application entry point for UC4.
-     * @param args Command-line arguments
-     */
     public static void main(String[] args) {
 
         // Declare and initialize input string
